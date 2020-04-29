@@ -1,0 +1,44 @@
+{
+    "profiles":[
+        {
+            "basicInformation": {
+                "name": "M.D.MADEVI",
+                "role":" Multi Skill Trainer ",
+                "email":"madevi.md@gmail.com",
+                "mobile":"+91 9848916931"
+            },
+
+            "Certifications":{
+                "python":"Coursera Python for Everybody",
+                "datascience":"Coursera Datascience Specalisation",
+                "machine":"Data Science and Machine Learning Certification in Udemy"
+            },
+
+            "techinical":{
+                "tech1":"Python",
+                "tech2":"Data Science",
+                "tech3":"Machine Learning",
+                "tech4":"SQL NoSql",
+                "tech5":"HTML CSS ReactJs",
+                "tech6":"IoT"
+
+            },
+
+            "Education":[
+                {
+                    "Degree":"B-tech(ECE)",
+                    "Instution":"Indira Institute ofTechnology Markapur"
+                },
+                {
+                    "Degree":"Intermediate",
+                    "Instution":"APSWR Girls jr college Pathikonda"
+                },
+                {
+                    "Degree":"SSC",
+                    "Instution":"A.P.S.W.RES School Peapully at Dhone."
+                }
+            ]
+        
+        }
+    ]
+}
